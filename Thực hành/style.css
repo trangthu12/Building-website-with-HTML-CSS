@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    display: inline; 
+}
+h2{
+    color: blue;
+    display: inline;
+}
+h3{
+    color: gray;
+    background: black;
+    display: inline;
+}
+h1,h2{
+    background: yellow;
+}
